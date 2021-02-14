@@ -1,0 +1,20 @@
+body { 
+    background: url(IMG-20201218-WA0078.jpg) center/cover no-repeat;
+    min-height: calc(100vh - 0px);
+    1
+}
+.countdowncontainer{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  text-align: center;
+  background: rgba(255, 255, 255, 0.8);
+  border: 1px solid black;
+  padding:10px;
+  box-shadow: 0 0 5px 3px #ccc;
+}
+.info{
+  font-size:80px;
+  font-family: perpertual;
+}
